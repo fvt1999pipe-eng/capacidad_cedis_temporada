@@ -1,0 +1,6 @@
+cd,tipo,ciudad,posiciones,cajas_por_estiba,piezas_por_bulto,capacidad_alistamiento_semana
+CD-Norte,Propio,Ciudad Norte,4800,40,9.6,580000
+CD-Centro,Propio,Ciudad Centro,1900,38,8.4,165000
+CD-Oriente,Propio,Ciudad Oriente,1300,30,8.6,105000
+CD-Bebidas,Propio,Ciudad Norte,1500,90,2.8,50000
+OPL-Frio,OPL,Ciudad Centro,350,45,7.0,21000
